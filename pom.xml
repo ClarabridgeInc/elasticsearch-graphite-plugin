@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>Clarabridge</groupId>
     <artifactId>elasticsearch-plugin-graphite</artifactId>
-    <version>0.6-RELEASE</version>
+    <version>1.4.0-RELEASE</version>
     <packaging>jar</packaging>
     <description>Graphite monitoring plugin for Elasticsearch</description>
     <url>https://github.com/ClarabridgeInc/elasticsearch-graphite-plugin/</url>
 
     <properties>
-        <elasticsearch.version>1.4.5</elasticsearch.version>
+        <elasticsearch.version>1.4.0</elasticsearch.version>
         <hamcrest.version>1.3</hamcrest.version>
     </properties>
 
